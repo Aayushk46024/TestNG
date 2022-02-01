@@ -14,12 +14,9 @@ public void LaunchBrowser()
 {
 	path = System.getProperty("user.dir")+"//drivers//chromedriver.exe";
 	System.setProperty("webdriver.chrome.driver", path);
-	
 
 		
 }
-
-
 
 
 }
